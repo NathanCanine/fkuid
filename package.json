@@ -1,0 +1,27 @@
+{
+  "name": "fkuid",
+  "version": "1.0.0",
+  "description": "Few Keystrokes UUID",
+  "main": "fkuid.js",
+  "dependencies": {
+    "save": "^2.4.0",
+    "uuid": "^3.3.3"
+  },
+  "scripts": {
+    "test": "node fkuid.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanCanine/fkuid.git"
+  },
+  "keywords": [],
+  "bin": {
+    "fkuid": "./bin.js"
+  },
+  "author": "Nathan Frenette",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/NathanCanine/fkuid/issues"
+  },
+  "homepage": "https://github.com/NathanCanine/fkuid#readme"
+}
